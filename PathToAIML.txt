@@ -1,0 +1,7 @@
+Learn Python/R - Focus on one language.
+👉 Study Statistics - Grasp basics like probability and distributions.
+👉 Practice Data Manipulation - Use Pandas or dplyr.
+👉 Work on Real Datasets - Start solving problems on Kaggle.
+👉 Learn Visualization - Use Matplotlib, Seaborn, or ggplot.
+👉 Master ML Algorithms - Start with regression and classification.
+👉 Build Projects - Showcase on GitHub or LinkedIn.
